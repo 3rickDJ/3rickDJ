@@ -4,15 +4,13 @@
 
 ## Hi, I’m 3rickDJ 🐇
 
-### Software developer at [MakingDevs](http://makingdevs.com)
-
 ![image](https://user-images.githubusercontent.com/94492584/199889814-3ce2d28d-82c4-4ecf-9954-766b4bf8422f.png)
 
 _💗 to share knowledge with my friends 🤟!_
 
 - 🔭 I’m currently working on [ViveCodigo](https://vivecodigo.org/)
 - 🌱 I’m currently learning **Elixir, Rails, Capistrano, Nginx**
-- 👯 Working on [MakingDevs](https://www.makingdevs.com/en/)
+- 👯 Software developer at [MakingDevs](http://makingdevs.com/en)
 - 📫 Reach at **erick@makingdevs.com**
 ---
 
