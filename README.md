@@ -28,7 +28,7 @@ _💗 to share knowledge with my friends 🤟!_
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Everyday+is+a+great+day+to+learn)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5300&pause=20000&width=500&lines=It+always+seems+imposible+until+it's+done)](https://git.io/typing-svg) -->
 
-+ ## I'm learning Ruby on Rails framework 🏅
++ ## I'm learning Phoenix framework 🏅
 + ## My treasured technologies 🌟😎
 
 <p align="center"> 
